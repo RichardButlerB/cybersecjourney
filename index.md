@@ -16,7 +16,7 @@ My real journey starts here. This is where the passion, focus, and motivation ca
 In hindsight I have to admit that I signed up for the OSCP prematurely. I signed up and recieved my start date for the pwk while I was out camping with family. I remmeber sitting in a tent and looking over the lake as I recieved the notification email. It was time to TRY HARDER. Little did I know how hard and what I was getting myself into.
 
 ## Start of the PWK Labs
-
+The day was here and I downloaded all the resources to get started
 
 
 ## Welcome to GitHub Pages
